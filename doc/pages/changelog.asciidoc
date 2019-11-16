@@ -33,6 +33,8 @@ released versions.
   of int/str/bool types to avoid performance issue with generating those
   on more complex option types. 
 
+* Replace NCursesUI with a custom terminal UI implementation
+
 == Kakoune v2020.01.16
 
 * Expose history tree through `$kak_history` and
